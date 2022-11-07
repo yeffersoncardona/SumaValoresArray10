@@ -1,0 +1,16 @@
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\bin\Debug\net5.0\ArregloValoresSum10.exe
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\bin\Debug\net5.0\ArregloValoresSum10.deps.json
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\bin\Debug\net5.0\ArregloValoresSum10.runtimeconfig.json
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\bin\Debug\net5.0\ArregloValoresSum10.runtimeconfig.dev.json
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\bin\Debug\net5.0\ArregloValoresSum10.dll
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\bin\Debug\net5.0\ArregloValoresSum10.pdb
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.csproj.AssemblyReference.cache
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.AssemblyInfoInputs.cache
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.AssemblyInfo.cs
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.csproj.CoreCompileInputs.cache
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.dll
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\refint\ArregloValoresSum10.dll
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.pdb
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ArregloValoresSum10.genruntimeconfig.cache
+C:\Repositorios\pruebaDigitalWare\ArregloValoresSum10\obj\Debug\net5.0\ref\ArregloValoresSum10.dll
